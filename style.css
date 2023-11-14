@@ -1,0 +1,92 @@
+.header{
+    background-color: black;
+    height: 9rem;
+    padding-top: 20px;
+    
+}
+
+.titlebox{
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.header-top{
+    display: inline-flex;
+    outline: solid 3px white;
+    align-items: center;
+    margin-left: 38%;
+    width: 23%;
+    height: 50%;
+    margin-bottom: 30px;
+}
+
+.header img{
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.header h1{
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+.header h2{
+    color: white;
+    margin: 0;
+    text-align: center;
+
+}
+
+.header-bottom .navpages{
+    color: white;
+    display: inline;
+    width: 100%;
+    list-style: none;
+    margin-left: 2%;
+}
+
+.header-bottom .navpages li{
+    display: inline;
+    list-style: none;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-bottom: 0;
+    cursor: pointer;
+    font-size: 19px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.header-bottom .navpages li a{
+    text-decoration: none;
+    color: white;
+}
+
+.header-bottom .navpages li a:hover{
+    color: red;
+}
+
+.title{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.construction{
+    width: 100%;
+    height: 500px;
+    width: 500px;
+    margin-left: 35%;
+    margin-top: 40px;
+}
+
+.main-page h2{
+    text-align: center;
+    margin: auto;
+}
